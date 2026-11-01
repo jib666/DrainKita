@@ -1,0 +1,6 @@
+{
+  "name": "NoSumbat - PBT Drain Blockage Manager",
+  "description": "Mobile-first PBT drain blockage response system for municipal contractors to monitor water levels, arrange high alerts, predict overflow impacts, and clear blockages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
